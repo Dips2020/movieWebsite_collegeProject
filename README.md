@@ -1,2 +1,2 @@
 # movieWebsitecollegeProject
-My project
+My First Semester Final Project.
